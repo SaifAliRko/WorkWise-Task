@@ -1,3 +1,16 @@
+<h1 align="center"> Workwise Task day trial</h1>
+
+ ## Built With
+<div style="display: flex">
+  <img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ 
+</div>
+
+
+## Live App Below :point_down:
+https://workwise-trial-day-task.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
